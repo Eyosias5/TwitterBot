@@ -1,0 +1,9 @@
+{
+  "name": "electionbot",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
